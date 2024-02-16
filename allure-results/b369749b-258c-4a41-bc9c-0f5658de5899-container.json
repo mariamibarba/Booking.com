@@ -1,0 +1,1 @@
+{"uuid":"b369749b-258c-4a41-bc9c-0f5658de5899","name":"BaseConfigSelenide.setup","children":["3eea0d9a-f16d-4137-b62f-091e1cb0ccfa"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1708112732023,"stop":1708112732049}],"afters":[],"start":1708112732022,"stop":1708112732049}
